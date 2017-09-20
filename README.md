@@ -36,7 +36,8 @@ Replace plugin files with the new ones.
 **== Changelog ==**
 
 **_= 1.1 =_**
-* Code optimization
+* Code optimization 
+* Structure optimization
 
 **_= 1.0 =_**
 * First version
