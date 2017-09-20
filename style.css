@@ -1,0 +1,14 @@
+.err {
+	color: red;
+}
+
+.avss-table {
+    border-collapse: collapse; /* Убираем двойные линии между ячейками */
+    border-collapse:collapse;border:1px solid #00280e;
+}
+
+.avss-table td{
+    padding: 5px; 
+    border: 1px solid #00280e;
+}
+   
