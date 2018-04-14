@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: AVED Site Scanner
-Plugin URI: http://avedsoft.com/
-Description: Aved Site Scanner
+Plugin Name: ACADEM Site Scanner
+Plugin URI: http://academweb.com.com/
+Description: ACADEM Site Scanner
 Version: 0.2 alfa
 Author: AVEDSoft
-Author URI: http://avedsoft.com/
+Author URI: http://academweb.com/
 License: GPL
 */
 
